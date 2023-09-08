@@ -1,0 +1,95 @@
+#header{
+    background-image:url(https://media4.giphy.com/media/zbOgf8XE1CKwOLo5rE/200w.webp?cid=ecf05e47xv5ujcphe7uf8352wzo2i8e2sg0xd309mr2rsfwh&rid=200w.webp&ct=g);
+}
+#header p{
+    font-size: 60pt;
+    color:black;
+    padding-top:8px;
+    margin:0;
+    font-weight:bold;
+    text-align:center;
+}
+.special{
+  color:grey;
+  font-size: 40px;
+  text-align: center;
+}
+body{
+    font-family:'bellota',cursive;
+    font-size: 26pt;
+    background-color: black;
+    padding:20px;
+    margin:0;
+}
+h1 span{
+    border:8px solid black;
+    border-radius: 100px;
+    color:black;
+    padding:15px;
+}
+h1{
+    font-size:15pt;
+    color:white;
+    text-align: centre;
+    padding: 20px 0 20px 0;
+    margin:0 0 10px 0;
+}
+.section {
+    margin-top: 15px;
+    background-color:white;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 30px;
+  }
+  
+  #res {
+    text-align: center;
+    margin: 50px auto;
+  }
+  
+  #res a {
+    margin: 20px 20px;
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+  }
+  
+  li {
+    margin-bottom: 15px;
+    font-weight: bold;
+  }
+  
+  progress {
+    width: 70%;
+    height: 20px;
+    color: #3fb6b2;
+    background: #0b2870;
+  }
+  
+  progress::-webkit-progress-bar {
+    background: #6b0707;
+  }
+  
+  progress::-webkit-progress-value {
+    background: #3fb6b2;
+  }
+  
+  progress::-moz-progress-bar {
+    color: #b63fb6;
+    background: #9722226f;
+  }
+  
+  #contacts {
+    text-align: center;
+  }
+  
+  #contacts img {
+    height: 150px;
+    width: 150px;
+    margin-left: 7px;
+    margin-right: 7px;
+  }
+  
+  #contacts a {
+    text-decoration:palevioletred;
+  }

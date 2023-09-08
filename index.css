@@ -1,0 +1,49 @@
+#heading{
+    color:pink;
+    background-color: black;
+    text-align: center;
+}
+#one{
+    color:purple; 
+    background-color:aquamarine;
+
+    text-align: center;
+}
+li[class="a"]{
+    color:rosybrown;
+}
+
+
+
+p,h1{
+    color:aqua;
+}
+li{
+    list-style-type: square;
+}
+
+.special{
+    color:orange;
+    font-weight: bold;
+    font-family: 'Lucida Sans';
+
+}
+span.special{
+    color:aquamarine;
+    font-family:'bellota',cursive;
+}
+li em{
+    color:rebeccapurple
+}
+body h3+h4.special{
+    color:yellowgreen;
+}
+a:visited{
+    color:palevioletred;
+    
+
+}
+a:hover{
+    color:palegreen;
+    text-align: center;
+}
